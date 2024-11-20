@@ -7,5 +7,5 @@ langchain-groq
 scikit-learn
 numpy
 langchain-community
-faiss-gpu
+faiss-gpu==1.7.2
 python3.8
