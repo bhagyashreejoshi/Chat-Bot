@@ -8,3 +8,4 @@ scikit-learn
 numpy
 langchain-community
 faiss-gpu
+faiss-cpu
