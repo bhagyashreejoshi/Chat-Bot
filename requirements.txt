@@ -1,0 +1,8 @@
+streamlit
+langchain
+sentence-transformers
+PyPDF2
+python-dotenv
+langchain-groq
+scikit-learn
+numpy
