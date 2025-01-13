@@ -11,6 +11,8 @@ from langchain_groq import ChatGroq
 from sklearn.metrics.pairwise import cosine_similarity
 import numpy as np
 
+#dcndhfbcanbhsdbnbx
+
 class LangchainEmbeddingWrapper:
     def __init__(self, model):
         self.model = model
